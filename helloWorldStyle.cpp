@@ -1,5 +1,5 @@
 // Copyright (c) 2022 Kevin Csiffary All rights reserved.
-// .
+// 
 // Created by: Kevin Csiffary
 // Date: Sep. 14, 2022
 // This program prints "Hello, World!" and has comments
